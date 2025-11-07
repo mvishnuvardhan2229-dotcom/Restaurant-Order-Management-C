@@ -1,7 +1,7 @@
 # Restaurant Order Management System (in C)
 
 This is a simple console-based application for managing restaurant orders, built as a project for my C programming course. It demonstrates all core CRUD (Create, Read, Update, Delete) operations and persists data to a text file.
-# direct access link to run the c code in compiler:https://onlinegdb.com/SEHlTG8u0a
+# direct access link to run this c code:https://onlinegdb.com/SEHlTG8u0a
 ## Features
 This program meets all the project requirements:
 * **Add Order:** Add a new order with ID, item name, quantity, and price.
